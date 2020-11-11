@@ -1,0 +1,7 @@
+A knight must never run away, no matter how mighty the enemy.
+0 1 3 6 10 15
+5 -899
+3 10 GodisinHeavenAllisRightwithTheWorld
+50
+mfsthg
+4 3 5 1 6 2
